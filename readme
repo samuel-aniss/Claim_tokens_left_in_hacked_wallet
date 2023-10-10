@@ -1,0 +1,9 @@
+
+Open remix ide and deploy Etherforwarder.sol
+Open Visual Studio Code
+Create new folder "Token_Claim_from_hacked_wallet"
+Create new file "claimbot.js"
+Open Terminal and install dependencies-------- Npm install web3
+Fill in required variables in "claimbot.js"
+Fill "CONTRACT_ADDRESS" with address of deployed contract from "Etherforwarde.sol"
+Run code "node claimbot.js"
